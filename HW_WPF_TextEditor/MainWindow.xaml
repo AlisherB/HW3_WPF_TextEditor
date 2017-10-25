@@ -1,0 +1,27 @@
+﻿<Window x:Class="HW_WPF_TextEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HW_WPF_TextEditor"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Menu Height="25" VerticalAlignment="Top" IsTabStop="False">
+            <MenuItem Header="Файл" IsTabStop="False">
+                <MenuItem Name="openFileMenuItem" Header="Открыть" Click="OpenFileMenuItem_Click"/>
+                <MenuItem Name="saveMenuItem" Header="Сохранить" Click="SaveMenuItem_Click"/>
+                <Separator />
+                <MenuItem Name="exitMenuItem" Header="Exit" Click="ExitMenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="Правка" IsTabStop="False">
+                <MenuItem Name="undoMenuItem" Header="Отменить" Click="UndoMenuItem_Click"/>
+                <MenuItem Name="cutMenuItem" Header="Вырезать" Click="CutMenuItem_Click"/>
+                <MenuItem Name="copyMenuItem" Header="Копировать" Click="CopyMenuItem_Click"/>
+                <MenuItem Name="pasteMenuItem" Header="Вставить" Click="PasteMenuItem_Click"/>
+            </MenuItem>
+        </Menu>
+        <TextBox Name="textBox" IsTabStop="False" Width="auto" Margin="0 25 0 0" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" AcceptsTab="True" AcceptsReturn="True"></TextBox>
+        
+    </Grid>
+</Window>

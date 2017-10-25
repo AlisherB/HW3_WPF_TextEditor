@@ -1,0 +1,15 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\bin\Debug\HW_WPF_TextEditor.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\bin\Debug\HW_WPF_TextEditor.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\bin\Debug\HW_WPF_TextEditor.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\MainWindow.g.cs
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\App.g.cs
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor_MarkupCompile.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor_MarkupCompile.lref
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\MainWindow.baml
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.g.resources
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.Properties.Resources.resources
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.csproj.GenerateResource.Cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\WPF\HW_WPF_TextEditor\HW_WPF_TextEditor\obj\Debug\HW_WPF_TextEditor.csprojResolveAssemblyReference.cache
